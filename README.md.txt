@@ -23,6 +23,10 @@ A simple and precise stopwatch web application that shows **hours**, **minutes**
 2. Click **Stop** to pause the time.
 3. Click **Reset** to set the stopwatch back to `00:00:00:00`.
 
+## click here to see the page
+
+    https://devendra-prasad.github.io/Stop-Watch/
+
 ## Author 
    
    made with a lot of affort by Devendra
